@@ -8,3 +8,6 @@ check_args() {
     exit 1
   fi
 }
+
+# Call the helper function to check for 2 arguments
+#check_args 2 "$@" # Pass the expected count and all script arguments
