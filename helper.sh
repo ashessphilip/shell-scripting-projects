@@ -11,3 +11,4 @@ check_args() {
 
 # Call the helper function to check for 2 arguments
 #check_args 2 "$@" # Pass the expected count and all script arguments
+#arguments
